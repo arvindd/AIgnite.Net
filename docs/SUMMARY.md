@@ -1,3 +1,3 @@
-# Table of contents
+# Table of Contents
 
 * [Home](README.md)
