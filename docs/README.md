@@ -2,7 +2,7 @@
 description: AIgnite Landing Page
 ---
 
-# # Introduction
+# Introduction
 
 Before going deeper into AIgnite.Net, we will first go deeper into the Initial Idea mentioned in [our top-level-Readme](../Readme.md). We take a step back, and understand how successful products get created, and then reintroduce AIgnite.Net. 
 
