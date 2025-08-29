@@ -1,2 +1,6 @@
-# Welcome to AIgnite.Net!
-This is the home of documentation for AIgnite.Net.
+---
+description: AIgnite Landing Page
+---
+
+# Home
+
