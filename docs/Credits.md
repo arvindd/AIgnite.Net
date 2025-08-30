@@ -14,6 +14,6 @@ We will have contributors added here as they join and begin contributions. To co
 
 ## Organisations
 
-| Logo                           | Organisation | Brief                                            | Acknowledgement                                        | Webpage            |
-|:------------------------------:|:------------:| ------------------------------------------------ | ------------------------------------------------------ | ------------------ |
-| ![](img/zulip-icon-circle.svg) | Zulip        | Zulip is an organized chat for distributed teams | Sponsors the cloud-standard community for AIgnite.Net. | https://zulip.com/ |
+| Logo                                                         | Organisation               | Brief                                            | Acknowledgement                                        |
+|:------------------------------------------------------------:|:--------------------------:| ------------------------------------------------ | ------------------------------------------------------ |
+| <img src="img/zulip-icon-circle.svg" width="32" height="32"> | [Zulip](https://zulip.com) | Zulip is an organized chat for distributed teams | Sponsors the cloud-standard community for AIgnite.Net. |
