@@ -84,5 +84,3 @@ AIgnite.Net's github page is here:
 [GitHub - AIgnite-Net/aignite.net: Starting point for .NET based LLM-centric, Agentic, and the next-big-thing projects...](https://github.com/AIgnite-Net/aignite.net)
 
 To contribute, checkout the [CONTRIBUTING.md](https://github.com/AIgnite-Net/aignite.net/blob/main/CONTRIBUTING.md) file.
-
-
