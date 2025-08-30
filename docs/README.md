@@ -4,7 +4,23 @@ description: AIgnite Landing Page
 
 # Introduction
 
-Before going deeper into AIgnite.Net, we will first go deeper into the Initial Idea mentioned in [our top-level-Readme](/README.md). We take a step back, and understand how successful products get created, and then reintroduce AIgnite.Net. 
+AIgnite.Net is a template project for LLM-Centric, Agentic AI projects in .NET. Read on to understand why this was started and how you can contribute.
+
+# Initial Idea
+
+With the onslaught of AI, we need to start thinking about how we can use AI to solve problems. And by problems, I mean real world production problems - such as scaling, security, and more.
+
+With the coding assistants evolving and improving very fast, the speed at which products are developed (and even deployed in some cases) is amazing!
+
+While the development time is shrinking on one side, debugging is also becoming easier with AI-based chats integrated with modern IDEs. So far so good.
+
+What happens when the products are deployed and used in the field? How will field-observability and complex bugs from the field be fixed?
+
+While there are definitely no right answer for these questions, and many of these are yet to be experienced, one aspect is certain: having a predictable backend architecture with a large number of common aspects built into it will take the speed of development and deployment to even greater heights.
+
+This thought drove the initial idea for development of a pluggable system that acts as a starting point for any AI projects.
+
+We call this AIgnite - a moniker with "AI" and "Ignite" fused together - for igniting your AI projects! We have the .Net in the name as this project aims to be the starting point for .NET AI projects.
 
 # Phases of product creation
 
@@ -60,3 +76,13 @@ Uno is equally good, and also supports MVU as an archtectural pattern - very pop
 So: if your IDE of choice is Visual Studio, Uno Platform is a good fit. Know that, at the time of writing, its mobile support is very robust, so also its Desktop support. If Rider is your IDE of choice, then, you need to have two licenses for using Uno Platform depending on how big your company is (Indie developers and small businesses have no problem here). Your alternative is using Avalonia with Rider. Avalonia has a very good cross-platform support and a robust Desktop development. Its mobile support is evolving to be very good too - and atleast for my projects, it has been great.
 
 Generally, Avalonia is more popular due to its long-time existence, while the Uno platform is relatively newer.
+
+# How can you contribute?
+
+AIgnite.Net's github page is here: 
+
+[GitHub - AIgnite-Net/aignite.net: Starting point for .NET based LLM-centric, Agentic, and the next-big-thing projects...](https://github.com/AIgnite-Net/aignite.net)
+
+To contribute, checkout the [CONTRIBUTING.md](https://github.com/AIgnite-Net/aignite.net/blob/main/CONTRIBUTING.md) file.
+
+
